@@ -7,7 +7,7 @@ First-Year CSE Student | ML & GenAI Enthusiast | Backend Development Learner
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mugdhakumar0803-alt/mugdhakumar0803-alt/main/profile-banner.png" width="700"/>
+  <img src="https://raw.githubusercontent.com/mugdhakumar0803-alt/mugdhakumar0803-alt/main/profile-banner.png" width="550"/>
 </p>
 
 ---
