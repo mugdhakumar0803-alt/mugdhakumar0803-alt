@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mugdha Kumar</h1>
 
 <h3 align="center">
-First-Year CSE Student | ML & GenAI Enthusiast | Backend Development Learner
+Second-Year CSE Student | ML & GenAI Enthusiast | Backend Development Learner
 </h3>
 
 ---
@@ -14,7 +14,7 @@ First-Year CSE Student | ML & GenAI Enthusiast | Backend Development Learner
 
 # 🚀 About Me
 
-🎓 First-year CSE student at IGDTUW  
+🎓 Second-year CSE student at IGDTUW  
 🤖 Interested in Machine Learning, Generative AI, and Backend Development  
 💡 Passionate about building AI-powered applications and solving real-world problems  
 
@@ -54,28 +54,34 @@ First-Year CSE Student | ML & GenAI Enthusiast | Backend Development Learner
 
 # 📌 Projects
 
-## 🏡 LLM-Powered Real Estate Brochure Generator
+## Customer Churn Prediction Using Machine Learning  Models With SHAP-based Explainability
 
-Generates AI-powered property brochures using OpenAI APIs and Supabase.
+Developed an end-to-end Customer Churn Prediction system to identify telecom customers at risk of leaving using the IBM Telco Customer Churn Dataset. Built and compared multiple machine learning classification models, selected the best-performing model based on F1-Score, and enhanced prediction transparency using SHAP (SHapley Additive Explanations). Deployed the solution as an interactive Streamlit web application for real-time churn prediction and model explainability.
 
 ### Tech Used
 
-- OpenAI API
 - Python
-- Supabase
-- Prompt Engineering
+- Pandas
+- NumPy
+- Scikit-learn
+- XGBoost
+- SHAP
+- Matplotlib
+- Plotly
+- Streamlit
+- Joblib
 
 ---
 
 ## 🌐 Personal Portfolio Website
 
-Responsive portfolio website built using HTML, CSS, and JavaScript.
+Developed a responsive personal portfolio website to showcase my projects, technical skills, education, and achievements. Built the website from scratch using HTML, CSS, and JavaScript, with a focus on clean UI, responsive design, smooth navigation, and an interactive user experience.
 
-### Features
+### Tech Used
 
-- Responsive UI
-- Smooth navigation
-- Modern design
+- HTML
+- CSS
+- JavaScript
 
 ---
 
